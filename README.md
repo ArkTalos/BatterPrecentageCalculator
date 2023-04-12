@@ -1,6 +1,6 @@
 # Battery Report Generator
 
-This script generates a battery report for a Windows system and extracts the design capacity and full charge capacity to calculate the battery percentage. The report is generated using the `powercfg` command and the data is extracted using regex.
+This script generates a battery report for a Windows system and extracts the design capacity and full charge capacity to calculate the battery percentage. The report is generated using the `powercfg` command and the data is extracted using regex. This was developed to automate the process of generating this report and 
 
 ## Getting Started
 
